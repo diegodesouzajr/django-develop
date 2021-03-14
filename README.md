@@ -1,5 +1,5 @@
 # django-develop
-Desenvolvimento de um aplicação em Django em backend.
+Desenvolvimento de uma aplicação em Django em backend.
 
 
 Adicionado método para cadastro de ususário.
