@@ -1,2 +1,2 @@
 # django-develop
-Desenvolvimento de um aplicação em Django
+Desenvolvimento de uma aplicação em Django
